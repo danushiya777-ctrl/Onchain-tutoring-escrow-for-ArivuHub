@@ -1,0 +1,19 @@
+.cache
+.cache/
+node_modules
+.pnpm-store
+.env
+cache
+artifacts
+typechain-types
+dist
+build
+coverage
+coverage.json
+*.log
+
+# Frontend
+frontend/node_modules
+frontend/dist
+frontend/.env
+frontend/.env.local
